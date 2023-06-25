@@ -1,6 +1,8 @@
 # Guess-game
 ### A GUI guess game in python
 
+![sample](won.png)
+
 ## requirements
 
 tkinter ----> for gui
