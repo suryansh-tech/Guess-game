@@ -1,6 +1,6 @@
 # Guess-game
 ### A GUI guess game in python
-
+<br />
 ![sample](won.png)
 
 ## requirements
