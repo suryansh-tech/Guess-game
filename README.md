@@ -3,13 +3,13 @@
 
 ## requirements
 
-### tkinter ----> for gui
-### PIL ----> for image
+tkinter ----> for gui
+PIL ----> for image
 
 ### INSTALL by any Pip package manager
 
-### pip install tkinter
-### pip install PIL
+pip install tkinter
+pip install PIL
 
 # functionality
 
